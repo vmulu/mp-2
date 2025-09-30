@@ -1,0 +1,11 @@
+/* styling for title */
+*{
+    text-align: center;
+}
+
+.top-title{
+    color: #ff69b4;
+    font: italic small-caps bold calc(2px + 1vw) Papyrus, fantasy;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
